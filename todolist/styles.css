@@ -1,7 +1,7 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Miriam Libre", sans-serif;
   background-color: rgb(0, 0, 0);
-  background: radial-gradient(#0f0f0f, #9198e5);
+  background: radial-gradient(#7ebba6, #fff);
   text-align: center;
   margin-top: 50px;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 h2 {
-  color: #fff;
+  color: #000000;
 }
 
 #todo-container {
